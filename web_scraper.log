@@ -1,0 +1,108 @@
+2024-08-17 03:11:06 - INFO - Script started.
+2024-08-17 03:11:06 - INFO - Checking availability of URL: https://uk.investing.com/commodities/us-sugar-no11-historical-data
+2024-08-17 03:11:06 - ERROR - URL returned status code: 403
+2024-08-17 03:11:06 - INFO - Initializing WebDriver.
+2024-08-17 03:11:12 - INFO - Navigating to the website.
+2024-08-17 03:11:41 - INFO - Waiting for the page to load.
+2024-08-17 03:11:41 - INFO - Closing the WebDriver.
+2024-08-17 03:11:46 - INFO - Script finished.
+2024-08-17 03:20:01 - INFO - Script started.
+2024-08-17 03:20:01 - INFO - Initializing WebDriver.
+2024-08-17 03:20:08 - INFO - Navigating to the website.
+2024-08-17 03:20:57 - INFO - Waiting for the page to load.
+2024-08-17 03:20:57 - INFO - Selecting the 'Weekly' time frame.
+2024-08-17 03:21:08 - ERROR - Failed to select Time Frame: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:21:08 - INFO - Entering date range.
+2024-08-17 03:21:08 - ERROR - Failed to enter date range or click Apply button: Message: Given css selector expression "div.flex.flex-1.flex-col.justify-center.text-sm.leading-5.text-[#333]" is invalid: InvalidSelectorError: Document.querySelector: 'div.flex.flex-1.flex-col.justify-center.text-sm.leading-5.text-[#333]' is not a valid selector: "div.flex.flex-1.flex-col.justify-center.text-sm.leading-5.text-[#333]"; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSelectorError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:432:5
+find_@chrome://remote/content/shared/DOM.sys.mjs:170:11
+
+2024-08-17 03:21:08 - INFO - Waiting for the table data to load.
+2024-08-17 03:21:08 - INFO - Fetching updated page content and parsing it.
+2024-08-17 03:21:08 - INFO - Extracting table rows.
+2024-08-17 03:21:09 - INFO - Closing the WebDriver.
+2024-08-17 03:21:13 - INFO - Script finished.
+2024-08-17 03:32:16 - INFO - Script started.
+2024-08-17 03:32:16 - INFO - Initializing WebDriver.
+2024-08-17 03:32:24 - INFO - Navigating to the website.
+2024-08-17 03:32:40 - INFO - Waiting for the page to load.
+2024-08-17 03:32:40 - INFO - Selecting the 'Weekly' time frame.
+2024-08-17 03:32:51 - ERROR - Failed to select Time Frame: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:32:51 - INFO - Entering date range.
+2024-08-17 03:32:51 - ERROR - Failed to enter date range or click Apply button: Message: Given css selector expression "flex flex-1 items-center gap-3.5 rounded border border-solid border-[#CFD4DA] bg-white px-3.5 py-2 shadow-select" is invalid: InvalidSelectorError: Document.querySelector: 'flex flex-1 items-center gap-3.5 rounded border border-solid border-[#CFD4DA] bg-white px-3.5 py-2 shadow-select' is not a valid selector: "flex flex-1 items-center gap-3.5 rounded border border-solid border-[#CFD4DA] bg-white px-3.5 py-2 shadow-select"; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+InvalidSelectorError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:432:5
+find_@chrome://remote/content/shared/DOM.sys.mjs:170:11
+
+2024-08-17 03:32:51 - INFO - Waiting for the table data to load.
+2024-08-17 03:32:51 - INFO - Fetching updated page content and parsing it.
+2024-08-17 03:32:51 - INFO - Extracting table rows.
+2024-08-17 03:32:55 - INFO - Closing the WebDriver.
+2024-08-17 03:33:04 - INFO - Script finished.
+2024-08-17 03:39:26 - INFO - Script started.
+2024-08-17 03:39:26 - INFO - Initializing WebDriver.
+2024-08-17 03:39:32 - INFO - Navigating to the website.
+2024-08-17 03:39:38 - INFO - Waiting for the page to load.
+2024-08-17 03:39:38 - INFO - Selecting the 'Weekly' time frame.
+2024-08-17 03:39:49 - ERROR - Failed to select Time Frame: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:39:49 - INFO - Entering date range.
+2024-08-17 03:40:00 - ERROR - Failed to enter date range or click Apply button: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:40:00 - INFO - Waiting for the table data to load.
+2024-08-17 03:40:00 - INFO - Fetching updated page content and parsing it.
+2024-08-17 03:40:00 - INFO - Extracting table rows.
+2024-08-17 03:40:00 - INFO - Closing the WebDriver.
+2024-08-17 03:40:03 - INFO - Script finished.
+2024-08-17 03:46:24 - INFO - Script started.
+2024-08-17 03:46:24 - INFO - Initializing WebDriver.
+2024-08-17 03:46:46 - INFO - Navigating to the website.
+2024-08-17 03:47:49 - INFO - Waiting for the page to load.
+2024-08-17 03:47:49 - INFO - Selecting the 'Weekly' time frame.
+2024-08-17 03:47:59 - ERROR - Failed to select Time Frame: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:47:59 - INFO - Entering date range.
+2024-08-17 03:48:10 - ERROR - Failed to enter date range or click Apply button: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:193:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:511:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-08-17 03:48:10 - INFO - Waiting for the table data to load.
+2024-08-17 03:48:10 - INFO - Fetching updated page content and parsing it.
+2024-08-17 03:48:12 - INFO - Extracting table rows.
+2024-08-17 03:48:13 - INFO - Closing the WebDriver.
+2024-08-17 03:48:17 - INFO - Script finished.
