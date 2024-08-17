@@ -7,9 +7,8 @@ This project involves performing data analysis on a dataset containing informati
 ## Contents
 
 - **Data Analysis.ipynb**: Jupyter Notebook containing detailed data analysis and visualization.
-- **data/**: Directory containing raw and processed data files.
-- **scripts/**: Python scripts used for data processing and analysis.
-- **requirements.txt**: File listing the Python packages required for the project.
+- **historical_data.xls**: The data which is scrapped from the site is converted into the excel format using python script.
+
 
 ## Dataset
 
